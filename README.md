@@ -14,7 +14,7 @@
 
 **Microsoft Technologies**  
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure)
-![Intune](https://img.shields.io/badge/-Intune_MDM-5E5E5E?logo=microsoft)
+![Intune](https://img.shields.io/badge/-Intune_MDM/MAM-5E5E5E?logo=microsoft)
 
 ## 🚀 My Projects
 ### [Intune Automation Testing](https://github.com/yourname/intune-test)
